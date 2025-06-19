@@ -12,3 +12,7 @@ to zwykły troll
 oryginalny twórca @jaczup
 
 dziękuje i dowidzenia
+
+
+BORZE CZEMU TO NIE DŹJAŁA
+AJHASDJAKSLDFHAKJSLDHFKLAHSDKJFSKD
