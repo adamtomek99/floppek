@@ -58,6 +58,10 @@ const SEARCHES = [
   'adamek'
 ]
 
+
+
+audioElement.play(lekcjapodtytułem.mp3);
+
 const VIDEOS = [
   'media/videos/duck.mp4',
   'media/videos/rickroll.mp4',
@@ -89,14 +93,14 @@ const FILE_DOWNLOADS = [
 ]
 
 const PHRASES = [
-  'hello my name is floppa, lol',
-  'floppka is funny lalalalalalalallalala',
-  'wgl co u cb bo u mn dbr wgl lb grc w stmbl gjs a t?',
-  'knuuurrr eksplozja',
-  'hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw',
-  'abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz',
-  'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaak',
-  'eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo'
+  'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahello my name is floppa, lolaaaaaaaaaaaaaaaa',
+  'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaafloppka is funny lalalalalalalallalala',
+  'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawgl co u cb bo u mn dbr wgl lb grc w stmbl gjs a t?',
+  'aaaaaaaaaaaaaaaaaaaaaaaaaknuuurrr eksplozja',
+  'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw',
+  'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaabcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz',
+  'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaak',
+  'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo'
 ]
 
 const LOGOUT_SITES = {
