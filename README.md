@@ -1,6 +1,6 @@
 cześć jestem adam i lubie programować!
 
-nie wiem do końca co robie ale mi sie to podoba :)
+
 
 
 zrobiłem forka pewnej strony (ptoszek.pl)
@@ -12,5 +12,3 @@ to zwykły troll
 oryginalny twórca @jaczup
 
 dziękuje i dowidzenia
-
-ps LUBIE FLOPPY
