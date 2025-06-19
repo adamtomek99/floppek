@@ -12,3 +12,5 @@ to zwykły troll
 oryginalny twórca @jaczup
 
 dziękuje i dowidzenia
+
+ps LUBIE FLOPPY
