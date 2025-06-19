@@ -58,23 +58,6 @@ const SEARCHES = [
   'adamek'
 ]
 
-
-const PHRASES = [
-  'komputer zostanie zformatowany za 10 sek',
-  'komputer zostanie zformatowany za 9 sek',
-  'komputer zostanie zformatowany za 8 sek',
-  'komputer zostanie zformatowany za 7 sek',
-  'komputer zostanie zformatowany za 6 sek',
-  'komputer zostanie zformatowany za 5 sek',
-  'komputer zostanie zformatowany za 4 sek',
-  'komputer zostanie zformatowany za 3 sek',
-  'komputer zostanie zformatowany za 3 sek'
-]
-
-
-
-audioElement.play(lekcjapodtytułem.mp3);
-
 const VIDEOS = [
   'media/videos/duck.mp4',
   'media/videos/rickroll.mp4',
