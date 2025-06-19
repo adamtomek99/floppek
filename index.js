@@ -1,26 +1,16 @@
 /*
+
   ptoszek.pl
   Powered by Jaczup
 
   My version (ptoszek.pl): 
-  - https://github.com/jaczup/ptoszek.pl
+  - https://github.com/adamtomek99/floppek.pl
   Original version (theannoyingsite.com): 
   - https://github.com/feross/TheAnnoyingSite.com/
 
-  Contact with me: https://jaczup.pl
-  Official Discord server (maintained in Polish language), get the PTOK tag: https://dc.ptoszek.pl
 
-  Contributors:
-    @jaczup - https://github.com/jaczup
-    @intexpression - https://github.com/intexpression
-    @dan64iel - https://github.com/dan64iel
-    @imzeme - https://github.com/imzeme
-    @GameShoot8050 - https://github.com/GameShoot8050
-    @wetraks -  https://github.com/wetraks
-    @cryblanka - https://github.com/cryblanka
-    @9fm - https://github.com/9fm
-    @MARECKIyt - https://github.com/MARECKIyt
-  
+
+ 
 */
 
 const SCREEN_WIDTH = window.screen.availWidth
@@ -61,48 +51,47 @@ const ART = [
 ]
 
 const SEARCHES = [
-  'jshop',
-  'ptoszek',
-  'ptak',
-  'kanarek',
-  'jaczup'
+  'floppa',
+  'free floppa',
+  'kup floppa',
+  'adaś321',
+  'adamek'
 ]
 
 const VIDEOS = [
-  'media/videos/jaczup.mp4',
   'media/videos/duck.mp4',
   'media/videos/rickroll.mp4',
   'media/videos/golomb.mp4',
   'media/videos/mushbox.mp4',
-  'media/videos/clearmax.mp4',
+  'media/videos/lubieflopy.mp4',
   'media/videos/freestrona.mp4',
   'media/videos/ajhsdfhjasdbhfjasdfs.mp4',
   'media/videos/v09044g40000cgr968jc77u1t2krb89g.mov',
-  'media/videos/intro.mp4',
-  'media/videos/szybkakaczka.mp4', // added by @dan64iel
-  'media/videos/kaczuszka.mp4', //added by @imzeme
-  'media/videos/gratulacje.mp4' //added by @GameShoot8050
+  'media/videos/kongratulacje.mp4',
+  'media/videos/szybkakaczka.mp4', 
+  'media/videos/kaczuszka.mp4', 
+  'media/videos/gratulacje.mp4' 
 ]
 
 const FILE_DOWNLOADS = [
   'media/images/ptok.jpg',
-  'media/images/jaczup.jpg',
+  'media/images/adamtomek99.jpg',
   'media/images/jaczupme.jpg',
   'media/images/ptoszek.jpg',
   'media/images/ptakwspodniach.jpg',
   'media/images/kichajacyptoszek.jpg',
-  'media/images/lubieptoszki.png',
-  'media/images/zimowyptoszek.jpeg', // added by @dan64iel
-  'media/images/zlyptok.jpeg', //added by @imzeme
-  'media/images/grubyptok.jpg', //added by @imzeme
-  'media/images/ptokzjajami.jpeg', //added by @MARECKIyt
+  'media/images/lubiefloppki.jpg',
+  'media/images/uszaetki.png', 
+  'media/images/FLOPPA VIRUS!!!!!!!!.jpg', //added by ADAS ahahahhahhahaahahhahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahah
+  'media/images/grubyptok.jpg', 
+  'media/images/ptokzjajami.jpeg', 
   'media/images/ptiszka.jpg',
 ]
 
 const PHRASES = [
-  'hello my name is ptoszek, lol',
-  'birds are funny lalalalalalalallalala',
-  'wgl co u cb bo u mn dbr',
+  'hello my name is floppa, lol',
+  'floppka is funny lalalalalalalallalala',
+  'wgl co u cb bo u mn dbr wgl lb grc w stmbl gjs a t?',
   'knuuurrr eksplozja',
   'hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw',
   'abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz',
@@ -905,7 +894,7 @@ function showHelloMessage () {
   document.body.appendChild(clone)
 }
 
-/**
+/**intro
  * Remove the hello message.
  */
 function removeHelloMessage () {
