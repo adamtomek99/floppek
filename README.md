@@ -14,5 +14,4 @@ oryginalny twórca @jaczup
 dziękuje i dowidzenia
 
 
-BORZE CZEMU TO NIE DŹJAŁA
-AJHASDJAKSLDFHAKJSLDHFKLAHSDKJFSKD
+lets goooo działa wszystko :)
