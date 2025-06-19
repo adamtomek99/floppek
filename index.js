@@ -89,14 +89,14 @@ const FILE_DOWNLOADS = [
 ]
 
 const PHRASES = [
-  'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahello my name is floppa, lolaaaaaaaaaaaaaaaa',
-  'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaafloppka is funny lalalalalalalallalala',
+  'aaaaaaaaaaaaaaaahello my name is floppa, lolaaaaaaaaaaaaaaaa',
+  'aaaaaaaaaaaaaaaaaaafloppka is funny lalalalalalalallalala',
   'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawgl co u cb bo u mn dbr wgl lb grc w stmbl gjs a t?',
   'aaaaaaaaaaaaaaaaaaaaaaaaaknuuurrr eksplozja',
   'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw',
   'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaabcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz',
-  'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaak',
-  'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo'
+  'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaak',
+  'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo'
 ]
 
 const LOGOUT_SITES = {
